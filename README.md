@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 ETH-BOT Verse v2.0
+# 🚀 ETH-TELEGRAM-VERSE-BOT Verse v2.0
 
 ![ETH Trading Bot](https://i.ibb.co/MkHKDVJ6/a65e96a731a85c687ab655f3ac95bd73.jpg)
 
